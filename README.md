@@ -2,16 +2,16 @@
 
 <img src="./resources/main-image.png" alt="january writeup title image" />
 
-**1월 2일부터 23일까지 (평일) 3주간 매일 개발 관련 글을 작성하는 스터디**
+**1월 2일부터 23일까지 (평일) 3주간 매일 글을 작성하는 스터디**
 
 ## 기간
 - 2024년 1월 2일 (화) ~ 2024년 1월 23일 (화)
 
 ## 참여자
-| 김정민<br/>(Kjm04175)                                                 | 이상아<br/>(snaag)                                                    | 이수빈<br/>(neolgu)                                                   | 윤정민<br/>(mingnuj)                                                | 윤지은<br/>(steammando)                                             | 조명지<br/>(myeongJJi)                                              | 장해웅<br/>(Longseabear)                                            |
-|--------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|
-| <a href="https://github.com/Kjm04175">Github</a>                   | <a href="https://github.com/snaag">Github</a>                      | <a href="https://github.com/neolgu">Github</a>                     | <a href="https://github.com/mingnuj">Github</a>                  | <a href="https://github.com/steammando">Github</a>               | <a href="https://github.com/myeongJJi">Github</a>                | <a href="https://github.com/Longseabear">Github</a>              |
-| <img src="https://avatars.githubusercontent.com/u/30641096?v=4" /> | <img src="https://avatars.githubusercontent.com/u/42943992?v=4" /> | <img src="https://avatars.githubusercontent.com/u/32592676?v=4" /> | <img src="https://avatars.githubusercontent.com/u/25028093?v=4"> | <img src="https://avatars.githubusercontent.com/u/16527408?v=4"> | <img src="https://avatars.githubusercontent.com/u/44626970?v=4"> | <img src="https://avatars.githubusercontent.com/u/23306763?v=4"> |
+| 김정민<br/>(Kjm04175)                                                 | 김주연<br/>(Kjm04175)                                                  | 이상아<br/>(snaag)                                                    | 이수빈<br/>(neolgu)                                                   | 윤정민<br/>(mingnuj)                                                | 윤지은<br/>(steammando)                                             | 조명지<br/>(myeongJJi)                                              | 장해웅<br/>(Longseabear)                                            |
+|--------------------------------------------------------------------|---------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|
+| <a href="https://github.com/Kjm04175">Github</a>                   | <a href="https://github.com/fxzyk">Github</a>                       | <a href="https://github.com/snaag">Github</a>                      | <a href="https://github.com/neolgu">Github</a>                     | <a href="https://github.com/mingnuj">Github</a>                  | <a href="https://github.com/steammando">Github</a>               | <a href="https://github.com/myeongJJi">Github</a>                | <a href="https://github.com/Longseabear">Github</a>              |
+| <img src="https://avatars.githubusercontent.com/u/30641096?v=4" /> | <img src="https://avatars.githubusercontent.com/u/155464891?v=4" /> | <img src="https://avatars.githubusercontent.com/u/42943992?v=4" /> | <img src="https://avatars.githubusercontent.com/u/32592676?v=4" /> | <img src="https://avatars.githubusercontent.com/u/25028093?v=4"> | <img src="https://avatars.githubusercontent.com/u/16527408?v=4"> | <img src="https://avatars.githubusercontent.com/u/44626970?v=4"> | <img src="https://avatars.githubusercontent.com/u/23306763?v=4"> |
 
 
 
